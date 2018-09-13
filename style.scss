@@ -24,7 +24,10 @@ body {
   color: $darkGray;
   text-shadow: 2px 2px 1px #9999999
 }
-
+table, th, td {
+   border: 1px solid black;
+   border-collapse: collapse;
+}
 .container {
   margin: 0 auto;
   max-width: 740px;
