@@ -29,6 +29,19 @@ table, th, td {
    border-collapse: collapse;
    box-shadow:2px 2px 1px brown
 }
+table,  th, {
+  background-color:#006600
+}
+th td
+{
+    background-color:#737373 ;
+}
+
+tr:nth-child(even) td:nth-child(odd), 
+tr:nth-child(odd) td:nth-child(even)
+{
+    background-color: #663300;
+
 .container {
   margin: 0 auto;
   max-width: 740px;
