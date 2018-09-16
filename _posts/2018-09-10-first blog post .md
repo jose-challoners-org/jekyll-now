@@ -5,7 +5,8 @@
   <th> Date </th>
   <th> 10-9-2018 </th>
 </tr>
-
+</table>
+<table>
 <tr>
   <td>Starting point</td>
   <td> Nothing </td>
@@ -20,11 +21,13 @@
   <td> Did I reach my target? </td>
   <td>No, as I couldn't do the first 3.</td>
 </tr>
-
+</table>
+<table>
 <tr>
 <td>How did you use your learning habits this week?</td>
 </tr>
-
+</table>
+<table>
 <tr>
 <td>Persevering</td>
 <td> Yes, because I'm writing this in markdown because Gabriel isn't working.</td>
@@ -48,9 +51,10 @@
 <tr>
 <td>Engagement</td>
 <td>No, as I didn’t ask for help when I needed it. </td>
- 
 </tr>
+</table>
 
+<table>
 <tr>
 <td>What could have gone better in your learning?</td>
 </tr>
