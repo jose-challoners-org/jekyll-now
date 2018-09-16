@@ -1,3 +1,4 @@
+<table>
 <tr>
   <th> Title </th>
   <th> Styling blog page </th>
@@ -47,6 +48,7 @@
 <tr>
 <td>Engagement</td>
 <td>No, as I didn’t ask for help when I needed it. </td>
+ 
 </tr>
 
 <tr>
@@ -65,3 +67,4 @@
 <td>Ask for help when I need it.</td>
 </tr>
 
+</table>
