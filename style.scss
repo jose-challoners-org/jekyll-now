@@ -16,6 +16,7 @@
 html {
   font-size: 100%;
   background-color: #ffffff
+}
 
 body {
   background-image: url("https://media.forgecdn.net/avatars/19/1/635687840482020756.png");
@@ -291,4 +292,4 @@ footer {
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
-@import "svg-icons"}
+@import "svg-icons";
