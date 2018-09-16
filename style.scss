@@ -32,7 +32,7 @@ table, th, td {
 table,  th, {
   background-color:#006600
 }
-th td
+td
 {
     background-color:#737373 ;
 }
@@ -41,6 +41,7 @@ tr:nth-child(even) td:nth-child(odd),
 tr:nth-child(odd) td:nth-child(even)
 {
     background-color: #663300;
+}
 
 .container {
   margin: 0 auto;
