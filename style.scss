@@ -30,14 +30,16 @@ table, th, td {
    border: 1px solid black;
    border-collapse: collapse;
    box-shadow:2px 2px 1px brown;
-   width: 100%;
 }
 table,  th, {
   background-color:#006600
+  color: white;
+  width:25%
 }
 td
 {
     background-color:#737373 ;
+    width:50%
 }
 
 tr:nth-child(even) td:nth-child(odd), 
